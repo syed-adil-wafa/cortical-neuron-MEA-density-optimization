@@ -1,4 +1,4 @@
-## Optimizing density of stem cell-derived cortical neurons for multi-electrode array recordings
+## Optimizing density of human stem cell-derived cortical neurons for multi-electrode array recordings
 
 
 ### Summary
