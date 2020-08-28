@@ -9,7 +9,7 @@ All experiments were conducted after receiving institutional review board approv
 #### Spike, burst, and network burst detection
 Data were sampled at 12.5 kHz, digitized, and analyzed using Axion Integrated Studio software (Axion BioSystems) with 200 Hz high-pass and 3 kHz low-pass Butterworth filters. Spikes were detected using an adaptive spike detection threshold set at 6 times the standard deviation for each electrode with 0.84 ms and 2.16 ms pre- and post-spike durations and non-overlapping 1 s binning. Bursts were detected using an ISI threshold with minimum 5 spikes and maximum 100 ms ISI. Network bursts were detected with minimum 10 spikes and maximum 100 ms ISI with 25% of electrodes participating. Synchrony metrics between electrodes were computed within 20 ms windows.
 #### Data analysis
-Downstream data analysis was conducted using in-house scripts written in MATLAB 2019b (The MathWorks, Inc.).
+Downstream data analysis was performed using in-house scripts written in MATLAB 2019b (The MathWorks, Inc.).
 
 ### Results and discussion
 We first observed that there was not a large difference in the spiking rates between the three cell density groups.
