@@ -1,2 +1,2 @@
-MATLAB release compatibility: created with MATLAB 2020a
+MATLAB release compatibility: created with MATLAB 2016a
 Platform compatibility: macOS
