@@ -20,8 +20,7 @@ Wells plated with 100,000 neurons displayed the lowest number of network bursts 
 ![alt text](https://github.com/syed-adil-wafa/cortical-neuron-MEA-density-optimization/blob/master/figures/network%20bursting%20features.png)
 Comparing the synchrony patterns across the three groups demonstrated wells plated with 100,000 neurons to be the most synchronous. There were no observable synchrony differences between wells plated with 150,000 and 200,000 neurons.
 ![alt text](https://github.com/syed-adil-wafa/cortical-neuron-MEA-density-optimization/blob/master/figures/synchrony%20features.png)
-
-### Limitations and future directions
+#### Limitations and future directions
 Weighting of electrophysiological features by the number of active electrodes can help increase the validity of results. Repeating the experiment will increase the number of technical and biological replicates for each group allowing for replicability and better precision. Statistical tests should be performed to determine statistical significance.
 
 ### Acknowledgements
