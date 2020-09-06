@@ -1,4 +1,4 @@
-%% Optimizing seeding density of patient-derived excitatory glutamatergic NGN2 cortical neurons for multi-electrode array recordings
+%% Optimizing seeding density of human iPSC-derived excitatory glutamatergic NGN2 cortical neurons for multi-electrode array recordings
 
 close all % close all figures
 clear % clear workspace
