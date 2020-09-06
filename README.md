@@ -1,4 +1,4 @@
-## Optimizing density of human induced pluripotent stem cell-derived cortical neurons for multi-electrode array recordings
+## Optimizing density of human iPSC-derived cortical neurons for multi-electrode array recordings
 
 
 ### Summary
